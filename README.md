@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Pipitton Sanseeha
-- 👀 I’m interested in ...
+- 👀 I’m interested in Data science subjects
 - 🌱 I’m currently doing virtual internship about Data science and Data analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Email: sanseeha.p@gmail.com
 
 <!---
 pipitton-s/pipitton-s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
