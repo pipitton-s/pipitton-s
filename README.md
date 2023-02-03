@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pipitton Sanseeha
-- 👀 I’m interested in Data science subjects
-- 🌱 I’m currently doing virtual internship about Data science and Data analytics
+- 👀 I’m interested in Data science
+- 🌱 I recently graduated with my master's degree in physics
 - 📫 Email: sanseeha.p@gmail.com
 
 <!---
